@@ -1,7 +1,7 @@
-GCP Practice PRoject
+GCP Practice Project
 ================
 
-# GADS - GCP Practice Project
+# Introduction GADS - Associate Cloud Engineer
 
 In the ending part of phase II, the GADS participants were requested to
 participate in a project to prepare for phase II. For Google Cloud
@@ -10,14 +10,17 @@ on Qwiklabs and translate about 2 - 3 into code.
 
 ## 10 - 15 Hands-on Labs QwikLabs
 
-  - [GCP Fundermentals: Getting Started with Cloud
+1.  [GCP Fundermentals: Getting Started with Cloud
     Marketplace](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/GCF:%20Getting%20Started%20with%20CLoud%20Marketplace.png)
-  - [GCP Fundermentals: Getting Started with Compute
+2.  [GCP Fundermentals: Getting Started with Compute
     Engine](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/GCF:%20Getting%20Started%20with%20Compute%20Engine.png)
-  - [Console and Cloud
+3.  [Console and Cloud
     Shell](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/Console%20and%20Cloud%20Shell.png)
-  - [Cloud
+4.  [Cloud
     IAM](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/Cloud%20IAM.png)
+
+<!-- end list -->
+
   - [Cloud
     Storage](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/Cloud%20Storage.png)
   - [Configuring an Internal Load
@@ -40,8 +43,6 @@ on Qwiklabs and translate about 2 - 3 into code.
     Engine](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/GCF:%20Getting%20Started%20with%20GKE.png)
   - [Implement Private Google Access and Cloud
     NAT](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/Implement%20Private%20Google%20Access%20and%20Cloud%20NAT.png)
-    You can include R code in the document as
-follows:
 
 ## 2 - 3 Translated Labs from Console Instruction to 100% command Line Instructions
 
