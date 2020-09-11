@@ -11,7 +11,10 @@ In this lab, you learn how to perform the following tasks:
 
   - Create a Cloud Storage bucket using Cloud Shell.
 
-  - Become familiar with Cloud Shell features.
+  - Become familiar with Cloud Shell
+features.
+
+### [bash scrip here](https://github.com/jecordjotse/gcp-practice-project/blob/master/cmd-instructions/console_and_cloud_shell.sh)
 
 ## Steps
 

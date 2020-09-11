@@ -3,10 +3,18 @@ LAB: GCP Fundermentals: Getting Started with Compute Engine
 
 ## Objective
 
-In this lab, you will learn how to perform the following tasks: - Create
-a Compute Engine virtual machine using the Google Cloud Platform (GCP)
-Console. - Create a Compute Engine virtual machine using the gcloud
-command-line interface. - Connect between the two instances.
+In this lab, you will learn how to perform the following tasks:
+
+  - Create a Compute Engine virtual machine using the Google Cloud
+    Platform (GCP) Console.
+
+  - Create a Compute Engine virtual machine using the gcloud
+    command-line interface.
+
+  - Connect between the two
+instances.
+
+### [bash scrip here](https://github.com/jecordjotse/gcp-practice-project/blob/master/cmd-instructions/gcf_compute_engine.sh)
 
 ## Steps
 
@@ -45,13 +53,8 @@ edit file
 sudo nano /var/www/html/index.nginx-debian.html
 ```
 
-add
-
-``` bash
-'Hi from YOUR_NAME'
-```
-
-save and exit with `CTRL + o` , `enter` , `CTRL + x`
+add `'Hi from YOUR_NAME'` save and exit with `CTRL + o` , `enter` ,
+`CTRL + x`
 
 ``` bash
 curl http://localhost/
