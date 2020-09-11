@@ -1,14 +1,7 @@
 GCP Practice Project
 ================
 
-# Introduction GADS - Associate Cloud Engineer
-
-In the ending part of phase II, the GADS participants were requested to
-participate in a project to prepare for phase II. For Google Cloud
-Profeesional track, the project task is to attempt 10 - 15 hands-on labs
-on Qwiklabs and translate about 2 - 3 into code.
-
-## 10 - 15 Hands-on Labs QwikLabs
+# 10 - 15 Hands-on Labs QwikLabs
 
 1.  [GCP Fundermentals: Getting Started with Cloud
     Marketplace](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/GCF:%20Getting%20Started%20with%20CLoud%20Marketplace.png)
@@ -40,23 +33,6 @@ on Qwiklabs and translate about 2 - 3 into code.
     Engine](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/GCF:%20Getting%20Started%20with%20GKE.png)
 15. [Implement Private Google Access and Cloud
     NAT](https://github.com/jecordjotse/gcp-practice-project/blob/master/projects/Implement%20Private%20Google%20Access%20and%20Cloud%20NAT.png)
-
-## 2 - 3 Translated Labs from Console Instruction to 100% command Line Instructions
-
-  - [Tutorial from Getting started with Compute
-    Engine](https://github.com/jecordjotse/gcp-practice-project/blob/master/cmd-instructions/Sample-Tutorial.md)
-    from [GADS Project Phase II: How to translate labs into
-    code](https://www.youtube.com/watch?v=w0ppK9oHWsQ&t=440s) by [George
-    Udosen](https://www.youtube.com/channel/UCJ8wuI84HHkL9OjR8j3m1JA)
-
-<!-- end list -->
-
-1.  [Console and Cloud
-    Shell](https://github.com/jecordjotse/gcp-practice-project/blob/master/cmd-instructions/Console-and-Cloud-Shell.md)
-2.  [Creating Virtual
-    Machines](https://github.com/jecordjotse/gcp-practice-project/blob/master/cmd-instructions/Creating-Virtual-Machines.md)
-3.  [GCP Fundermentals: Getting Started with Kubernetes
-    Engine](https://github.com/jecordjotse/gcp-practice-project/blob/master/cmd-instructions/GCF-Kubernetes-Engine.md)
 
 ## Other Labs
 
